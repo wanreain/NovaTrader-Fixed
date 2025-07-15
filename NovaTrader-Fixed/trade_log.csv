@@ -1,0 +1,4 @@
+time,symbol,action,price,volume,result
+2025-07-15 09:00:00,XAUUSD,buy,2350.12,0.1,success
+2025-07-15 10:00:00,XAUUSD,sell,2345.76,0.1,success
+2025-07-15 11:00:00,XAUUSD,buy,2358.89,0.1,success
