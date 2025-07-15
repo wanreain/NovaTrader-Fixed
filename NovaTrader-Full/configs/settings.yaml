@@ -1,0 +1,8 @@
+api:
+  binance_key: "YOUR_BINANCE_API_KEY"
+  binance_secret: "YOUR_BINANCE_API_SECRET"
+
+trade:
+  symbol: "BTC/USDT"
+  interval: "1m"
+  quantity: 0.001
