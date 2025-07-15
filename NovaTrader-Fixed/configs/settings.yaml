@@ -3,6 +3,6 @@ api:
   binance_secret: "YOUR_BINANCE_API_SECRET"
 
 trade:
-  symbol: "BTC/USDT"
+  symbol: "XAUUSD"
   interval: "1m"
-  quantity: 0.001
+  quantity: 0.02
