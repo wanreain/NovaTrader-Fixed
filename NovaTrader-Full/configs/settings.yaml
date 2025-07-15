@@ -5,4 +5,4 @@ api:
 trade:
   symbol: "XAUUSD"
   interval: "5m"
-  quantity: 0.001
+  quantity: 0.02
