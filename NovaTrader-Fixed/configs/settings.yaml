@@ -1,6 +1,6 @@
 api:
-  binance_key: "fylAlW6Sv4BOClR3PIGye6AgfOBFxguPOMuxcLnNew11NH0uPBR6fIWOVltrdkEv"
-  binance_secret: "rzqe77ntr78pKb4htnqZTt2DTYrc1L1IIK8PD4YPWrNe9KR6hJpLsvtbpLkp938O"
+  binance_key: "..."
+  binance_secret: "..."
 
 trade:
   symbol: "XAUUSD"
